@@ -1,0 +1,15 @@
+---
+title: 'Exam #3'
+author: "Cameron Williamson"
+date: "7/8/2021"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+---
+
+# Clear enviornment
+rm(list=ls(all=TRUE))
+
+# Git Hub
+https://github.com/cdw3565/Exam-3
